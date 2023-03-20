@@ -5,5 +5,4 @@ Implementation on Python - CVXPY can be found at: https://github.com/HieuNguyenN
 
 In the repsitory, the code of following sections are provided:
 1. Read data from MATPOWER
-2. Bus injection model
-3. Branch flows model
+2. Branch flows model
